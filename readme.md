@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-![Лого](https://postimg.cc/vD4m8pdC)
+![Logo](https://i.postimg.cc/Dfg46Tpf/Capture.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
